@@ -5,7 +5,10 @@ public class Add {
 	
 	public int Add(int x,int y)
 	{
-
+		
+		a=x;
+		b=y;
+		
 		
 	}
 	
