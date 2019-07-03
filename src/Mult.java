@@ -1,4 +1,4 @@
 
-public class mult(int a,int b) { 
-	return a*b;
+public class mult(int value1,int value2) { 
+	return value1*valuw2;
 }
