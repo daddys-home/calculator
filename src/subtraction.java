@@ -9,6 +9,7 @@ public class subtraction {
 	
 	public int cal()
 	{
+		int temp=a-b;
 
 	}
 
