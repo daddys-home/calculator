@@ -6,7 +6,11 @@ public class subtraction {
                 this.a=a;
                 this.b=b;
         }
+	
+	public int cal()
+	{
 
+	}
 
 }
 
