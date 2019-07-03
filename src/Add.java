@@ -9,6 +9,8 @@ public class Add {
 		a=x;
 		b=y;
 		
+		return a+b;
+		
 		
 	}
 	
