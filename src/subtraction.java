@@ -1,16 +1,16 @@
 public class subtraction {
 
-	private int a,b;
+	private int num1,num2;
 	public void setvalue(int a, int b)
         {
-                this.a=a;
-                this.b=b;
+                this.num1=a;
+                this.num2=b;
         }
 	
 	public int cal()
 	{
-		int temp=a-b;
-		return temp;
+	
+		return num1-num2;
 	}
 
 }
