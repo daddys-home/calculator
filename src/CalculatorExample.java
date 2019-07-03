@@ -23,7 +23,7 @@ public class CalculatorExample {
 				result = Divider.divide(a,b);
 			}
 			
-			System.out.println("°á°ú°ª"+result);
+			System.out.println("Result="+result);
 		}
 
 	}
